@@ -1029,7 +1029,7 @@ of your APK or IPA with the Flutter tools.
 A release build is usually _much_ smaller
 than a _debug build_.
 
-此外，请务必使用 Flutter 工具创建 APK 或 IPA 的_发布版本_。发布版本的体积通常_远_小于_调试_版本。
+此外，请务必使用 Flutter 工具创建 APK 或 IPA 的*发布版本*。发布版本的体积通常*远*小于*调试版本*。
 
 Learn more about creating a
 [release build of your Android app][],
